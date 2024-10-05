@@ -1,4 +1,4 @@
-name: show-directory
+name: hello-world
 on: push
 jobs:
   build:
